@@ -2,9 +2,18 @@
 layout: default
 ---
 
-## A Jekyll template for publishing single-page websites and articles that are incredibly readable and fully responsive
 
-### Nice, clean, reading!
+
+## “Programs are meant to be read by humans and only incidentally for computers to execute” — Donald Knuth, Turing award
+
+### Who are we?
+
+
+We are small team of professionals and enthusiast. We don't over-complicate systems. 
+
+### Our philoshopy
+
+We like simple/cost-effective solutions that works for you. We call that ground laying and when you are ready to prop up your architecture, let us now, we are gladly help you. We cannot compete with bigger players on market, but surly we won't try to upsell anything just because we have hundreds of developers that need paycheck next month. Small teams are forced to look for cost effective and simple solution and don't have luxury to introduce complexities. 
 
 Good clean read is set up with readability first in mind. Whatever you want to communicate here can be read easily, and without distraction. Of course, it's fully responsive, which means people can read it naturally on any phone, or tablet. Write it in markdown in <code>index.md</code> and get a beautifully published piece.
 
